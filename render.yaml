@@ -1,0 +1,19 @@
+# Render Blueprint — deploys this folder as a free Static Site.
+# Docs: https://render.com/docs/blueprint-spec
+services:
+  - type: web
+    name: pari-hydration-hub
+    runtime: static
+    # No build step needed — these are plain HTML/CSS/JS files.
+    buildCommand: "echo 'Static site — nothing to build'"
+    # Serve everything from the repository root.
+    staticPublishPath: .
+    # Small caching + security niceties (optional).
+    headers:
+      - path: /*
+        name: X-Frame-Options
+        value: SAMEORIGIN
+    routes:
+      - type: rewrite
+        source: /
+        destination: /index.html
