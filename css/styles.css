@@ -96,7 +96,12 @@ p  { margin: 0 0 1em; color: var(--ink-soft); }
   letter-spacing: .06em; text-transform: uppercase; margin-bottom: 18px;
 }
 .hero p.lead { font-size: 1.15rem; max-width: 34em; }
+.byline { font-size: .98rem; color: var(--ink-soft); margin: 4px 0 22px; }
+.byline strong { color: var(--blue-700); }
 .hero-img img { border-radius: var(--radius); box-shadow: var(--shadow); }
+
+/* Facebook link in footer */
+.footer-social a { display: inline-flex; align-items: center; gap: 6px; }
 
 /* ---------- Buttons ---------- */
 .btn {
