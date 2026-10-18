@@ -38,7 +38,7 @@ python -m http.server 8000
 
 ## Contact / editing tips
 
-- **Email:** the contact address is `PervinMoulvi@yahoo.com`. To change it, search-and-replace that string across the `.html` files.
+- **Email:** the contact address is `pervinabdul@yahoo.com`. To change it, search-and-replace that string across the `.html` files.
 - **Text:** all copy lives directly in the HTML — edit any page in a text editor.
 - **Images:** swap files in `img/` (keep the same filenames), or point the `<img src="...">` tags at new ones.
 - **Colors/fonts:** edit the variables at the top of `css/styles.css`.
