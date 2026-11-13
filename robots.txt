@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://codexai-us.github.io/pari-hydration-hub/sitemap.xml
+Sitemap: https://pari-hydration-hub.onrender.com/sitemap.xml

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://codexai-us.github.io/pari-hydration-hub/</loc><priority>1.0</priority></url>
-  <url><loc>https://codexai-us.github.io/pari-hydration-hub/about.html</loc><priority>0.8</priority></url>
-  <url><loc>https://codexai-us.github.io/pari-hydration-hub/benefits.html</loc><priority>0.8</priority></url>
-  <url><loc>https://codexai-us.github.io/pari-hydration-hub/uses.html</loc><priority>0.8</priority></url>
-  <url><loc>https://codexai-us.github.io/pari-hydration-hub/faq.html</loc><priority>0.8</priority></url>
-  <url><loc>https://codexai-us.github.io/pari-hydration-hub/posts.html</loc><priority>0.7</priority></url>
-  <url><loc>https://codexai-us.github.io/pari-hydration-hub/contact.html</loc><priority>0.7</priority></url>
+  <url><loc>https://pari-hydration-hub.onrender.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://pari-hydration-hub.onrender.com/about.html</loc><priority>0.8</priority></url>
+  <url><loc>https://pari-hydration-hub.onrender.com/benefits.html</loc><priority>0.8</priority></url>
+  <url><loc>https://pari-hydration-hub.onrender.com/uses.html</loc><priority>0.8</priority></url>
+  <url><loc>https://pari-hydration-hub.onrender.com/faq.html</loc><priority>0.8</priority></url>
+  <url><loc>https://pari-hydration-hub.onrender.com/posts.html</loc><priority>0.7</priority></url>
+  <url><loc>https://pari-hydration-hub.onrender.com/contact.html</loc><priority>0.7</priority></url>
 </urlset>
