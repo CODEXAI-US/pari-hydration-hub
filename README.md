@@ -6,10 +6,10 @@ A simple, responsive informational website about **Kangen Water®** and Enagic's
 
 | Page | File | What's on it |
 |------|------|--------------|
-| Home | `index.html` | Intro, seven water types, highlights, machine spotlight |
+| Home | `index.html` | Intro, five water types, highlights, machine spotlight |
 | About | `about.html` | What Kangen Water is, how the machine works, heritage |
 | Benefits | `benefits.html` | Why people love it, beauty water, family lifestyle |
-| Uses | `uses.html` | The 7 pH water types and what each is used for |
+| Uses | `uses.html` | The five water types (seven pH settings) and what each is used for |
 | FAQ | `faq.html` | Common questions and answers |
 | Contact | `contact.html` | Email contact + a message form (opens your email app) |
 
